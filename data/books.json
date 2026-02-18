@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1,
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "genre": "Realismo mágico",
+    "year": 1967,
+    "description": "La historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo.",
+    "pages": 417,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Ciencia ficción",
+    "year": 1949,
+    "description": "Una distopía sobre un régimen totalitario que controla todos los aspectos de la vida.",
+    "pages": 328,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg"
+  },
+  {
+    "id": 3,
+    "title": "El principito",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Fantasía",
+    "year": 1943,
+    "description": "Un cuento poético que narra las aventuras de un pequeño príncipe que viaja por el universo.",
+    "pages": 96,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367545443i/157993.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "genre": "Clásico",
+    "year": 1605,
+    "description": "Las aventuras de un hidalgo que enloquece leyendo libros de caballerías.",
+    "pages": 863,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546112331i/3836.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Orgullo y prejuicio",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "year": 1813,
+    "description": "La historia de Elizabeth Bennet y su relación con el orgulloso Sr. Darcy.",
+    "pages": 432,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Crimen y castigo",
+    "author": "Fiódor Dostoyevski",
+    "genre": "Clásico",
+    "year": 1866,
+    "description": "La historia de un estudiante que comete un asesinato y lucha con su conciencia.",
+    "pages": 671,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144.jpg"
+  },
+  {
+    "id": 7,
+    "title": "El hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasía",
+    "year": 1937,
+    "description": "Las aventuras de Bilbo Bolsón en su viaje para ayudar a recuperar el tesoro de los enanos.",
+    "pages": 310,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Ciencia ficción",
+    "year": 1953,
+    "description": "Una sociedad futurista donde los libros están prohibidos y los bomberos queman libros.",
+    "pages": 249,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Matar a un ruiseñor",
+    "author": "Harper Lee",
+    "genre": "Clásico",
+    "year": 1960,
+    "description": "Una historia sobre injusticia racial en el sur de Estados Unidos durante la Gran Depresión.",
+    "pages": 336,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg"
+  },
+  {
+    "id": 10,
+    "title": "El gran Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Clásico",
+    "year": 1925,
+    "description": "La historia del millonario Jay Gatsby y su amor no correspondido por Daisy Buchanan.",
+    "pages": 180,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg"
+  },
+  {
+    "id": 11,
+    "title": "La sombra del viento",
+    "author": "Carlos Ruiz Zafón",
+    "genre": "Misterio",
+    "year": 2001,
+    "description": "Un joven descubre un libro misterioso en el Cementerio de los Libros Olvidados en Barcelona.",
+    "pages": 565,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385148814i/1232.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Crónica de una muerte anunciada",
+    "author": "Gabriel García Márquez",
+    "genre": "Realismo mágico",
+    "year": 1981,
+    "description": "La reconstrucción del asesinato de Santiago Nasar en un pueblo del Caribe.",
+    "pages": 120,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563305827i/23878.jpg"
+  },
+  {
+    "id": 13,
+    "title": "El nombre del viento",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasía",
+    "year": 2007,
+    "description": "La historia de Kvothe, un legendario héroe y mago, contada por él mismo.",
+    "pages": 662,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1270352123i/186074.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Los pilares de la Tierra",
+    "author": "Ken Follett",
+    "genre": "Histórico",
+    "year": 1989,
+    "description": "La construcción de una catedral en la Inglaterra medieval del siglo XII.",
+    "pages": 1008,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576956100i/5043.jpg"
+  },
+  {
+    "id": 15,
+    "title": "El código Da Vinci",
+    "author": "Dan Brown",
+    "genre": "Misterio",
+    "year": 2003,
+    "description": "Un profesor de simbología investiga un asesinato en el Louvre y descubre una conspiración.",
+    "pages": 489,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579621267i/968.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Los juegos del hambre",
+    "author": "Suzanne Collins",
+    "genre": "Ciencia ficción",
+    "year": 2008,
+    "description": "En un futuro distópico, adolescentes son forzados a luchar a muerte en un reality show.",
+    "pages": 374,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Harry Potter y la piedra filosofal",
+    "author": "J.K. Rowling",
+    "genre": "Fantasía",
+    "year": 1997,
+    "description": "Un niño descubre que es un mago y comienza su educación en Hogwarts.",
+    "pages": 223,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Sapiens: De animales a dioses",
+    "author": "Yuval Noah Harari",
+    "genre": "No ficción",
+    "year": 2011,
+    "description": "Una breve historia de la humanidad desde la Edad de Piedra hasta la actualidad.",
+    "pages": 443,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg"
+  },
+  {
+    "id": 19,
+    "title": "La insoportable levedad del ser",
+    "author": "Milan Kundera",
+    "genre": "Romance",
+    "year": 1984,
+    "description": "Una reflexión sobre el amor, la política y la existencia en la Praga de 1968.",
+    "pages": 314,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1265401884i/9717.jpg"
+  },
+  {
+    "id": 20,
+    "title": "El alquimista",
+    "author": "Paulo Coelho",
+    "genre": "Ficción",
+    "year": 1988,
+    "description": "Un pastor andaluz emprende un viaje en busca de su leyenda personal.",
+    "pages": 197,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg"
+  },
+  {
+    "id": 21,
+    "title": "El señor de los anillos: La comunidad del anillo",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasía",
+    "year": 1954,
+    "description": "Frodo Bolsón debe destruir un anillo mágico para salvar la Tierra Media.",
+    "pages": 423,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654215925i/61215351.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Ciencia ficción",
+    "year": 1965,
+    "description": "En el planeta desértico Arrakis, la única fuente de la especia melange, se decide el destino del universo.",
+    "pages": 688,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg"
+  },
+  {
+    "id": 23,
+    "title": "El retrato de Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Clásico",
+    "year": 1890,
+    "description": "Un joven vende su alma para que su retrato envejezca en su lugar.",
+    "pages": 254,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546103428i/5297.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Los miserables",
+    "author": "Victor Hugo",
+    "genre": "Clásico",
+    "year": 1862,
+    "description": "La historia de Jean Valjean, un ex-convicto que busca redención en la Francia del siglo XIX.",
+    "pages": 1463,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411852091i/24280.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Anna Karenina",
+    "author": "León Tolstói",
+    "genre": "Romance",
+    "year": 1877,
+    "description": "La trágica historia de amor de Anna Karenina y el Conde Vronsky en la Rusia imperial.",
+    "pages": 864,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601352433i/15823480.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "genre": "Ficción",
+    "year": 1963,
+    "description": "Una novela experimental que puede leerse en diferentes órdenes.",
+    "pages": 600,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388279829i/93150.jpg"
+  },
+  {
+    "id": 27,
+    "title": "La casa de los espíritus",
+    "author": "Isabel Allende",
+    "genre": "Realismo mágico",
+    "year": 1982,
+    "description": "La saga de la familia Trueba a través de cuatro generaciones en Chile.",
+    "pages": 433,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389755776i/9328.jpg"
+  },
+  {
+    "id": 28,
+    "title": "El amor en los tiempos del cólera",
+    "author": "Gabriel García Márquez",
+    "genre": "Romance",
+    "year": 1985,
+    "description": "Una historia de amor que perdura más de cincuenta años.",
+    "pages": 368,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327881850i/9712.jpg"
+  },
+  {
+    "id": 29,
+    "title": "La metamorfosis",
+    "author": "Franz Kafka",
+    "genre": "Ficción",
+    "year": 1915,
+    "description": "Gregor Samsa despierta una mañana convertido en un insecto gigante.",
+    "pages": 201,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359061917i/485894.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "Ficción",
+    "year": 1987,
+    "description": "Una ex-esclava es perseguida por el fantasma de su hija.",
+    "pages": 324,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394509809i/6149.jpg"
+  },
+  {
+    "id": 31,
+    "title": "El guardián entre el centeno",
+    "author": "J.D. Salinger",
+    "genre": "Ficción",
+    "year": 1951,
+    "description": "Las experiencias de Holden Caulfield durante tres días en Nueva York.",
+    "pages": 277,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Aventura",
+    "year": 1851,
+    "description": "La obsesión del capitán Ahab por cazar a la ballena blanca Moby Dick.",
+    "pages": 635,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327940656i/153747.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Guerra y paz",
+    "author": "León Tolstói",
+    "genre": "Histórico",
+    "year": 1869,
+    "description": "La invasión napoleónica de Rusia vista a través de cinco familias aristocráticas.",
+    "pages": 1225,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413215930i/656.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Ulises",
+    "author": "James Joyce",
+    "genre": "Ficción",
+    "year": 1922,
+    "description": "Un día en la vida de Leopold Bloom en Dublín.",
+    "pages": 732,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428891345i/338798.jpg"
+  },
+  {
+    "id": 35,
+    "title": "El extranjero",
+    "author": "Albert Camus",
+    "genre": "Ficción",
+    "year": 1942,
+    "description": "Meursault vive una vida sin sentido hasta que comete un asesinato.",
+    "pages": 123,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590930002i/49552.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "genre": "Ficción",
+    "year": 1955,
+    "description": "La obsesión de Humbert Humbert por una niña de doce años.",
+    "pages": 368,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377756377i/7604.jpg"
+  },
+  {
+    "id": 37,
+    "title": "El ruido y la furia",
+    "author": "William Faulkner",
+    "genre": "Ficción",
+    "year": 1929,
+    "description": "La decadencia de la familia Compson en el sur de Estados Unidos.",
+    "pages": 326,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451430688i/10975.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Invisible",
+    "author": "Ralph Ellison",
+    "genre": "Ficción",
+    "year": 1952,
+    "description": "Un hombre negro lucha por encontrar su identidad en una sociedad que no lo ve.",
+    "pages": 581,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556482805i/45252519.jpg"
+  },
+  {
+    "id": 39,
+    "title": "El cuento de la criada",
+    "author": "Margaret Atwood",
+    "genre": "Ciencia ficción",
+    "year": 1985,
+    "description": "En una sociedad totalitaria, las mujeres son esclavizadas para la reproducción.",
+    "pages": 311,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578028274i/38447.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Un mundo feliz",
+    "author": "Aldous Huxley",
+    "genre": "Ciencia ficción",
+    "year": 1932,
+    "description": "Una distopía donde la sociedad está controlada por el placer y la tecnología.",
+    "pages": 268,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
+  },
+  {
+    "id": 41,
+    "title": "La carretera",
+    "author": "Cormac McCarthy",
+    "genre": "Ficción",
+    "year": 2006,
+    "description": "Un padre y su hijo viajan por un mundo post-apocalíptico.",
+    "pages": 287,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600241424i/6288.jpg"
+  },
+  {
+    "id": 42,
+    "title": "El color púrpura",
+    "author": "Alice Walker",
+    "genre": "Ficción",
+    "year": 1982,
+    "description": "Las cartas de Celie, una mujer afroamericana en el sur de Estados Unidos.",
+    "pages": 295,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572164081i/52892857.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Las uvas de la ira",
+    "author": "John Steinbeck",
+    "genre": "Ficción",
+    "year": 1939,
+    "description": "La familia Joad migra a California durante la Gran Depresión.",
+    "pages": 464,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511302904i/4395.jpg"
+  },
+  {
+    "id": 44,
+    "title": "El viejo y el mar",
+    "author": "Ernest Hemingway",
+    "genre": "Ficción",
+    "year": 1952,
+    "description": "Un pescador anciano lucha contra un gigantesco marlín en el Golfo de México.",
+    "pages": 127,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329189714i/2165.jpg"
+  },
+  {
+    "id": 45,
+    "title": "La naranja mecánica",
+    "author": "Anthony Burgess",
+    "genre": "Ciencia ficción",
+    "year": 1962,
+    "description": "Alex y sus amigos cometen actos de ultra-violencia en una sociedad futurista.",
+    "pages": 192,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505386969i/41817.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Matadero Cinco",
+    "author": "Kurt Vonnegut",
+    "genre": "Ciencia ficción",
+    "year": 1969,
+    "description": "Billy Pilgrim viaja en el tiempo mientras experimenta la Segunda Guerra Mundial.",
+    "pages": 275,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440319389i/4981.jpg"
+  },
+  {
+    "id": 47,
+    "title": "La muerte de Artemio Cruz",
+    "author": "Carlos Fuentes",
+    "genre": "Ficción",
+    "year": 1962,
+    "description": "Las memorias de un magnate mexicano en su lecho de muerte.",
+    "pages": 306,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388269993i/73361.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Pedro Páramo",
+    "author": "Juan Rulfo",
+    "genre": "Realismo mágico",
+    "year": 1955,
+    "description": "Juan Preciado busca a su padre en un pueblo habitado por fantasmas.",
+    "pages": 124,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601348609i/54421977.jpg"
+  },
+  {
+    "id": 49,
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "genre": "Ficción",
+    "year": 1944,
+    "description": "Colección de cuentos que exploran laberintos, tiempo y realidad.",
+    "pages": 174,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327873699i/426504.jpg"
+  },
+  {
+    "id": 50,
+    "title": "El túnel",
+    "author": "Ernesto Sabato",
+    "genre": "Ficción",
+    "year": 1948,
+    "description": "Un pintor obsesionado narra su crimen pasional.",
+    "pages": 158,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388269957i/88924.jpg"
+  },
+  {
+    "id": 51,
+    "title": "La ciudad y los perros",
+    "author": "Mario Vargas Llosa",
+    "genre": "Ficción",
+    "year": 1963,
+    "description": "La vida en un colegio militar en Lima, Perú.",
+    "pages": 409,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348059021i/6493.jpg"
+  },
+  {
+    "id": 52,
+    "title": "El perfume",
+    "author": "Patrick Süskind",
+    "genre": "Ficción",
+    "year": 1985,
+    "description": "Un asesino con un sentido del olfato extraordinario busca el aroma perfecto.",
+    "pages": 263,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408655487i/343.jpg"
+  },
+  {
+    "id": 53,
+    "title": "El juego de Ender",
+    "author": "Orson Scott Card",
+    "genre": "Ciencia ficción",
+    "year": 1985,
+    "description": "Un niño genio es entrenado para liderar la guerra contra una raza alienígena.",
+    "pages": 324,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408931585i/375802.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Neuromante",
+    "author": "William Gibson",
+    "genre": "Ciencia ficción",
+    "year": 1984,
+    "description": "Un hacker es contratado para el último y más peligroso hackeo.",
+    "pages": 271,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Fundación",
+    "author": "Isaac Asimov",
+    "genre": "Ciencia ficción",
+    "year": 1951,
+    "description": "Un matemático predice la caída del Imperio Galáctico.",
+    "pages": 255,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417900846i/29579.jpg"
+  },
+  {
+    "id": 56,
+    "title": "Canción de hielo y fuego: Juego de tronos",
+    "author": "George R.R. Martin",
+    "genre": "Fantasía",
+    "year": 1996,
+    "description": "Familias nobles luchan por el Trono de Hierro de Poniente.",
+    "pages": 694,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562726234i/13496.jpg"
+  },
+  {
+    "id": 57,
+    "title": "El nombre de la rosa",
+    "author": "Umberto Eco",
+    "genre": "Misterio",
+    "year": 1980,
+    "description": "Un monje detective investiga una serie de asesinatos en una abadía medieval.",
+    "pages": 536,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415375471i/119073.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Los detectives salvajes",
+    "author": "Roberto Bolaño",
+    "genre": "Ficción",
+    "year": 1998,
+    "description": "La búsqueda de una poeta desaparecida en el desierto de México.",
+    "pages": 609,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388359038i/63033.jpg"
+  },
+  {
+    "id": 59,
+    "title": "2666",
+    "author": "Roberto Bolaño",
+    "genre": "Ficción",
+    "year": 2004,
+    "description": "Cinco historias entrelazadas que convergen en una ciudad fronteriza mexicana.",
+    "pages": 1125,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382798082i/63032.jpg"
+  },
+  {
+    "id": 60,
+    "title": "El libro de los abrazos",
+    "author": "Eduardo Galeano",
+    "genre": "No ficción",
+    "year": 1989,
+    "description": "Relatos breves que celebran la vida, la memoria y la esperanza.",
+    "pages": 256,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388360464i/166789.jpg"
+  },
+  {
+    "id": 61,
+    "title": "Tokio blues",
+    "author": "Haruki Murakami",
+    "genre": "Romance",
+    "year": 1987,
+    "description": "Un estudiante universitario rememora su juventud y primer amor en Tokio.",
+    "pages": 389,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630638011i/11297.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Kafka en la orilla",
+    "author": "Haruki Murakami",
+    "genre": "Ficción",
+    "year": 2002,
+    "description": "Dos historias paralelas de un adolescente fugitivo y un anciano especial.",
+    "pages": 505,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429638085i/4929.jpg"
+  },
+  {
+    "id": 63,
+    "title": "El ruido de las cosas al caer",
+    "author": "Juan Gabriel Vásquez",
+    "genre": "Ficción",
+    "year": 2011,
+    "description": "La violencia del narcotráfico en Colombia contada a través de una amistad.",
+    "pages": 280,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344268339i/13538363.jpg"
+  },
+  {
+    "id": 64,
+    "title": "La fiesta del chivo",
+    "author": "Mario Vargas Llosa",
+    "genre": "Histórico",
+    "year": 2000,
+    "description": "La dictadura de Rafael Trujillo en República Dominicana.",
+    "pages": 451,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388204705i/6492.jpg"
+  },
+  {
+    "id": 65,
+    "title": "El olvido que seremos",
+    "author": "Héctor Abad Faciolince",
+    "genre": "No ficción",
+    "year": 2006,
+    "description": "Memoria del padre del autor, médico y activista asesinado en Colombia.",
+    "pages": 276,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327910998i/3324345.jpg"
+  },
+  {
+    "id": 66,
+    "title": "Los renglones torcidos de Dios",
+    "author": "Torcuato Luca de Tena",
+    "genre": "Misterio",
+    "year": 1979,
+    "description": "Una mujer se interna en un psiquiátrico para investigar un crimen.",
+    "pages": 352,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388192029i/7119652.jpg"
+  },
+  {
+    "id": 67,
+    "title": "El tiempo entre costuras",
+    "author": "María Dueñas",
+    "genre": "Histórico",
+    "year": 2009,
+    "description": "Una modista se convierte en espía durante la Guerra Civil Española.",
+    "pages": 609,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348003867i/7502803.jpg"
+  },
+  {
+    "id": 68,
+    "title": "La catedral del mar",
+    "author": "Ildefonso Falcones",
+    "genre": "Histórico",
+    "year": 2006,
+    "description": "Un siervo medieval ayuda a construir una catedral en Barcelona.",
+    "pages": 670,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388202922i/768426.jpg"
+  },
+  {
+    "id": 69,
+    "title": "El médico",
+    "author": "Noah Gordon",
+    "genre": "Histórico",
+    "year": 1986,
+    "description": "Un joven inglés viaja a Persia en el siglo XI para estudiar medicina.",
+    "pages": 752,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388364600i/490443.jpg"
+  },
+  {
+    "id": 70,
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "genre": "Ciencia ficción",
+    "year": 2011,
+    "description": "En un futuro distópico, un joven busca un tesoro en un mundo virtual.",
+    "pages": 374,
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500930947i/9969571.jpg"
+  },
+  {
+    "id": 71,
+    "title": "Un libro",
+    "author": "Sergi",
+    "genre": "Aventura",
+    "year": 2026,
+    "description": "Un libro inventado por Mi SERGI  ESCORUELA",
+    "pages": 319,
+    "cover": "https://via.placeholder.com/300x450/667eea/ffffff?text=Sin+Portada"
+  },
+  {
+    "id": 72,
+    "title": "'El país",
+    "author": "las últimas cosas' por Paul Auster",
+    "genre": "Ficción",
+    "year": 2020,
+    "description": "Si te interesa una reflexión sobre la condición humana pero en un contexto de ficción más atractivo que 'Sapiens', esta novela distópica con elementos filosóficos podría ser una buena opción.",
+    "pages": 300,
+    "cover": "https://via.placeholder.com/150x200?text=Sin+Portada"
+  },
+  {
+    "id": 73,
+    "title": "El Metal Perdido",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasía Épica",
+    "year": 2022,
+    "description": "Waxillium Ladrian debe aprender a confiar en sus instintos y abrazar su conexión con ambos mundos, el refinado Elendel y el áspero Páramo, para desentrañar una conspiración que amenaza la estabilidad del mundo. El libro explora temas de fe, tecnología y el equilibrio entre tradición y progreso.",
+    "pages": 528,
+    "cover": "https://www.goodreads.com/book/show/53228634-the-lost-metal"
+  },
+  {
+    "id": 74,
+    "title": "El león, la bruja y el armario",
+    "author": "C.S. Lewis",
+    "genre": "Fantasía, Literatura infantil",
+    "year": 1950,
+    "description": "Cuatro hermanos, Peter, Susan, Edmund y Lucy Pevensie, son evacuados a la casa de un viejo profesor durante la Segunda Guerra Mundial. Allí, Lucy descubre un armario que la transporta al mágico mundo de Narnia, gobernado por la malvada Bruja Blanca.",
+    "pages": 208,
+    "cover": "https://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe"
+  }
+]
